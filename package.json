@@ -1,0 +1,13 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Matt Brunt <matt@mfyu.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
